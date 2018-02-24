@@ -11,10 +11,10 @@ https://github.com/allgrowup/BookShopping/blob/master/image/%E5%9B%BE%E4%B9%A6%E
 )
 上面是项目的一些简单的效果浏览
 本项目是用apache的commons来对项目进行搭建的，jar包如下:
-c3p0-0.9.2-pre1.jar<br />
-c3p0-oracle-thin-extras-0.9.2-pre1.jar
-commons-beanutils-1.8.3.jar
-commons-collections-3.0.jar
+c3p0-0.9.2-pre1.jar<br>
+c3p0-oracle-thin-extras-0.9.2-pre1.jar<br><br><br>
+commons-beanutils-1.8.3.jar<br>
+commons-collections-3.0.jar<br>
 commons-dbutils-1.4.jar
 commons-fileupload-1.2.2.jar
 commons-io-1.4.jar
